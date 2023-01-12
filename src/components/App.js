@@ -3,7 +3,7 @@ import '../styles/App.css';
 
 const App = () => {
   return (
-    <div id="main"></div>
+    <p >Hi, Im learning react</p>
   )
 }
 
