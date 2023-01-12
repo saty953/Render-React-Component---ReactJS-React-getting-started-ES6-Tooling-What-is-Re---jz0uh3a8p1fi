@@ -3,7 +3,7 @@ import '../styles/App.css';
 
 const App = () => {
   return (
-    <p >Hi, Im learning react</p>
+    <p >I am learning React. My life is getting better. </p>
   )
 }
 
